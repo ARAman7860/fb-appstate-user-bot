@@ -1,1 +1,10 @@
-
+{
+  "name": "fb-appstate-user-bot",
+  "version": "1.0.0",
+  "description": "Simple Node.js command based bot structure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
