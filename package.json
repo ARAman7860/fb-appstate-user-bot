@@ -1,10 +1,14 @@
 {
   "name": "fb-appstate-user-bot",
   "version": "1.0.0",
-  "description": "Simple Node.js command based bot structure",
+  "description": "Facebook user bot using appstate",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {}
+  "author": "ARAMan7860",
+  "license": "ISC",
+  "dependencies": {
+    "fca-unofficial": "^1.3.10"
+  }
 }
