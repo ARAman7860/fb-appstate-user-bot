@@ -1,1 +1,8 @@
-
+{
+  "prefix": "!",
+  "botName": "AppState User Bot",
+  "ownerName": "ARAMan7860",
+  "adminUIDs": ["100000000000000"],
+  "autoSeen": true,
+  "autoTyping": false
+}
